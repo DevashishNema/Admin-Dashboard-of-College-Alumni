@@ -1,0 +1,34 @@
+{
+  "Friends": [
+    {
+      "id": "1",
+      "name": "Tanuj Vaish",
+      "place": "Pune",
+      "company": "TCS"
+    },
+    {
+      "id": "2",
+      "name": "Arish Khan",
+      "place": "Indore",
+      "company": "American Chase"
+    },
+    {
+      "id": "3",
+      "name": "Devansh Gupta",
+      "place": "Bhopal",
+      "company": "Freelancer"
+    },
+    {
+      "id": "5",
+      "name": "Ankita Bobde",
+      "place": "Bhopal",
+      "company": "Cybrom"
+    },
+    {
+      "id": "6",
+      "name": "Gauri Dahake",
+      "place": "Bhopal",
+      "company": "Cybrom"
+    }
+  ]
+}
